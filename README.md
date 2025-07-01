@@ -7,7 +7,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/zaheenkadri" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaheenkadri" height="30" width="40" />
-    &nbsp;LinkedIn
+    &nbsp;
   </a>
 </p>
 
