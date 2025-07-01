@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaheen Kadri</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 📫 Reach me at: **zaheenkkadri@gmail.com**
-
 ---
 
 ## 🌐 Socials:
