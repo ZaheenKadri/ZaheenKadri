@@ -43,14 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnokhiDave&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnokhiDave&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
 ### 🔐 Authentication & Security
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
@@ -62,9 +54,10 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=zaheenkadri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheenkadri&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnokhiDave&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnokhiDave&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
